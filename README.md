@@ -4,7 +4,7 @@
 Availaible Roles : "None", "Silver", "Gold" (u can add more)
 
 ```ruby
-$role = 0;
+$role = 0; // this can be gained from database when user login in
 $subscription = array("None", "Silver", "Gold");
 ```
 # Support free videos
