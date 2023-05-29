@@ -1,0 +1,43 @@
+.videos{
+    position: relative;
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+
+    margin: 2%;
+}
+.videos-blocked{
+    position: relative;
+    width: 500px;
+    height: 300px;
+    background-color: darkslategray;
+
+    margin: 2%;
+}
+
+
+.videos-free{
+    position: relative;
+    width: 500px;
+    height: 300px;
+   background-color: chartreuse;
+ 
+    margin: 2%;
+}
+
+video{
+    position: absolute;
+    width: 500px;
+    height: 291px;
+}
+h3{
+    position: absolute;
+    color: white;
+    left: 20%;
+    top: 70%;
+}
+img{
+    position: absolute;
+    height: 200px;
+    left: 30%;
+}
