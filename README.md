@@ -5,3 +5,7 @@ Availaible Roles : "None", "Silver", "Gold" (u can add more)
 $role = 0;
 $subscription = array("None", "Silver", "Gold");
 ```
+# Support free videos
+you can choose which one is free 
+# Video subscription
+you can change the roles of the videos for the desired role
