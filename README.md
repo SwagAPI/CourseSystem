@@ -9,3 +9,5 @@ $subscription = array("None", "Silver", "Gold");
 you can choose which one is free by changing from the database to true
 # Video subscription
 you can change the roles of the videos for the desired role
+#Preview
+![image](https://github.com/SwagAPI/CourseSystem/assets/108799236/840a49be-f551-4327-83fd-544e8d90a526)
